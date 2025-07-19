@@ -23,7 +23,7 @@ email: aman09singh15@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my website for the technical aspects that I am involved in or am working on. 
   I will be updating the blog with my projects, study and things I find interesting.
-baseurl: Aman09Singh/aman09singh.github.io/docs
+baseurl: Aman09Singh/aman09singh.github.io/docs/_posts
 url: https://github.com/Aman09Singh/aman09singh.github.io
 github_username:  Aman09Singh
 
